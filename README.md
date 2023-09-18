@@ -1,3 +1,5 @@
+I didn’t understand how `docker compose` was supposed to be used and why. I provided some `compose.yaml` file but it seems useless and you can build my solution using `docker build` and `docker run`.
+
 # Use of the utility
 
 ```shell
